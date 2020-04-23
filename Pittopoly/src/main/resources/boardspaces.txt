@@ -1,0 +1,40 @@
+Go, Go, 0, 0
+Station Square, Property, 60, 2
+Chest Spot 1, ChestCard, 0, 0
+Market Square, Property, 60, 4
+Road Construction Tax, Tax, 0, 0
+PAT Bus, Railroad, 200, 25
+Rachel Carson Bridge, Property, 100, 6
+Chance Spot 1, ChanceCard, 0, 0
+Andy Warhol Bridge, Property, 100, 6
+Roberto Clemente Bridge, Property, 120, 8
+Jail, Jail, 0, 0
+Sandcastle Water Park, Property, 140, 10
+Hospital Bills, Tax, 0, 0
+Pittsburgh Zoo, Property, 140, 10
+Kennywood Park, Property, 160, 12
+The T, Railroad, 200, 25
+Point State Park, Property, 180, 14
+Chest Spot 2, ChestCard, 0, 0
+Frick Park, Property, 180, 14
+Schenley Park, Property, 200, 16
+Free Parking, FreeParking, 0, 0
+PNC Park, Property, 220, 18
+Chance Spot 2, ChanceCard, 0, 0
+Heinz Field, Property, 220, 18
+PPG Paints Arena, Property, 240, 20
+Duquesne Incline, Railroad, 200, 25
+Heinz History Center, Property, 260, 22
+Mattress Factory, Property, 260, 22
+Property Tax, Tax, 0, 0
+Andy Warhol Museum, Property, 280, 24
+Go to Jail, GoToJail, 0, 0
+The National Aviary, Property, 300, 26
+Pittsburgh Botanic Garden, Property, 300, 26
+Chest Spot 3, ChestCard, 0, 0
+Phipps Conservatory, Property, 320, 28
+Union Station, Railroad, 200, 25
+Chance Spot 3, ChanceCard, 0, 0
+Heinz Chapel, Property, 350, 35
+Tuition Fees, Tax, 0, 0
+Cathedral of Learning, Property, 400, 50

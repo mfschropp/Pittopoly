@@ -1,0 +1,40 @@
+Go, Go, 0, 0, 0, none, 0, 0
+Station Square, Property, 60, 2, 2, none, 0, 0
+Chest Spot 1, ChestCard, 0, 0, 0, none, 0, 0
+Market Square, Property, 60, 4, 4, Jack, 0, 0
+Road Construction Tax, Tax, 0, 0, 0, none, 0, 0
+PAT Bus, Railroad, 200, 25, 25, none, 0, 0
+Rachel Carson Bridge, Property, 100, 6, 6, Michael, 0, 0
+Chance Spot 1, ChanceCard, 0, 0, 0, none, 0, 0
+Andy Warhol Bridge, Property, 100, 6, 6, Michael, 0, 0
+Roberto Clemente Bridge, Property, 120, 8, 8, Michael, 0, 0
+Jail, Jail, 0, 0, 0, none, 0, 0
+Sandcastle Water Park, Property, 140, 10, 10, none, 0, 0
+Hospital Bills, Tax, 0, 0, 0, none, 0, 0
+Pittsburgh Zoo, Property, 140, 10, 10, none, 0, 0
+Kennywood Park, Property, 160, 12, 12, none, 0, 0
+The T, Railroad, 200, 25, 25, none, 0, 0
+Point State Park, Property, 180, 14, 14, Nick, 0, 0
+Chest Spot 2, ChestCard, 0, 0, 0, none, 0, 0
+Frick Park, Property, 180, 14, 14, Nick, 0, 0
+Schenley Park, Property, 200, 16, 16, Nick, 0, 0
+Free Parking, FreeParking, 0, 0, 0, none, 0, 0
+PNC Park, Property, 220, 18, 18, none, 0, 0
+Chance Spot 2, ChanceCard, 0, 0, 0, none, 0, 0
+Heinz Field, Property, 220, 18, 18, Hunter, 0, 0
+PPG Paints Arena, Property, 240, 20, 20, none, 0, 0
+Duquesne Incline, Railroad, 200, 25, 25, none, 0, 0
+Heinz History Center, Property, 260, 22, 22, none, 0, 0
+Mattress Factory, Property, 260, 22, 22, none, 0, 0
+Property Tax, Tax, 0, 0, 0, none, 0, 0
+Andy Warhol Museum, Property, 280, 24, 24, none, 0, 0
+Go to Jail, GoToJail, 0, 0, 0, none, 0, 0
+The National Aviary, Property, 300, 26, 26, none, 0, 0
+Pittsburgh Botanic Garden, Property, 300, 26, 26, none, 0, 0
+Chest Spot 3, ChestCard, 0, 0, 0, none, 0, 0
+Phipps Conservatory, Property, 320, 28, 28, none, 0, 0
+Union Station, Railroad, 200, 25, 25, none, 0, 0
+Chance Spot 3, ChanceCard, 0, 0, 0, none, 0, 0
+Heinz Chapel, Property, 350, 35, 35, none, 0, 0
+Tuition Fees, Tax, 0, 0, 0, none, 0, 0
+Cathedral of Learning, Property, 400, 50, 50, Hunter, 0, 0

@@ -7,11 +7,4 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class ApplicationTests {
 
-	Application app = new Application();
-
-	@Test
-	void exampleTest() {
-		Assertions.assertEquals("Not yet implemented.", app.example());
-	}
-
 }
